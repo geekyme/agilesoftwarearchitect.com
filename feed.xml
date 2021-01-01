@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>agilesoftwarearchitect</title>
-    <link href="https://blog.agilesoftwarearchitect.com/feed.xml" rel="self" />
-    <link href="https://blog.agilesoftwarearchitect.com" />
+    <link href="https://agilesoftwarearchitect.com/feed.xml" rel="self" />
+    <link href="https://agilesoftwarearchitect.com" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Shawn Lim</name>
     </author>
-    <id>https://blog.agilesoftwarearchitect.com</id>
+    <id>https://agilesoftwarearchitect.com</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>Shawn Lim</name>
         </author>
-        <link href="https://blog.agilesoftwarearchitect.com/hello-world.html"/>
-        <id>https://blog.agilesoftwarearchitect.com/hello-world.html</id>
+        <link href="https://agilesoftwarearchitect.com/hello-world.html"/>
+        <id>https://agilesoftwarearchitect.com/hello-world.html</id>
 
-        <updated>2021-01-01T19:23:13+08:00</updated>
+        <updated>2021-01-01T19:24:34+08:00</updated>
             <summary>
                 <![CDATA[
                     My name is Shawn. I'm a Principal Software Engineer / Architect at Traveloka. I enjoy sharing knowledge about Software Engineering with others. Background in business and entrepreneurship. I am equipped with heavy technical knowledge in frontend, backend &amp; infrastructure. Because of this unique intersection between&hellip;
